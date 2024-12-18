@@ -1,0 +1,80 @@
+body {
+	background-color: hsl(30, 54%, 90%);
+}
+
+.header {
+	font-family: Young Serif;
+	font-weight: 400;
+}
+
+.page {
+	width: 700px;
+	margin: 50px auto;
+	padding: 25px;
+	background-color: white;
+	border-radius: 15px;
+	font-family: Outfit;
+}
+
+.omelette-image {
+	width: inherit;
+	border-radius: 15px;
+}
+
+.prep-time-header {
+	color: hsl(332, 51%, 32%);
+}
+
+.prep-time-div {
+	background-color: hsl(330, 100%, 98%);
+	padding: 10px;
+	border-radius: 15px;
+}
+
+.prep-time-list li {
+	margin: 7px;
+}
+
+.prep-time-list span {
+	font-weight: 600;
+}
+
+.ing-header {
+	font-family: "Young Serif";
+	color: hsl(332, 51%, 32%);
+}
+
+.ingredients-div ul li {
+	margin: 7px;
+}
+
+.ins-header {
+	font-family: "Young Serif";
+	color: hsl(332, 51%, 32%);
+}
+
+.ins-div ol li {
+	margin: 10px;
+}
+
+.ins-div ol li::marker {
+	color: hsl(332, 51%, 32%);
+}
+
+.nur-header {
+	font-family: "Young Serif";
+	color: hsl(332, 51%, 32%);
+}
+
+.nur-table {
+	width: 100%;
+}
+
+.nur-table td, .nur-table td {
+	border-bottom: 1px solid black;
+	border-collapse: collapse;
+}
+
+.color-td {
+	color: hsl(332, 51%, 32%);
+}
